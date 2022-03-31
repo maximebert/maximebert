@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working on a new project soon available
 - 🌱 I’m currently learning REACT
-- ⚡ Fun fact: I have four cats and one dog
+- ⚡ Fun fact: I have four cats but only one dog...
 
 ## Languages and Tools:    
 <img align="left" width="25px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
